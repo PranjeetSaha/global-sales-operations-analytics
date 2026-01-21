@@ -1,4 +1,4 @@
-# Global Sales & Operations Analytics Platform
+# World_Bank_GDP_Analysis
 
 ## Business Objective
 Build an enterprise-grade analytics platform to analyze global economic,
